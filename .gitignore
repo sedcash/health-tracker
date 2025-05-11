@@ -1,0 +1,34 @@
+# Xcode
+*.xcuserstate
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcscheme
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+project.xcworkspace/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+
+# Cocoapods
+Pods/
+
+# Carthage
+Carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+# Misc
+.DS_Store
+.env
+*.log
